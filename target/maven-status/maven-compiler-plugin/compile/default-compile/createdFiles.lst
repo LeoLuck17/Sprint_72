@@ -1,0 +1,11 @@
+org\example\CourierGenerator.class
+org\example\OrderListGenerator.class
+org\example\OrderGenerator.class
+org\example\OrderClient.class
+org\example\CourierClient.class
+org\example\Client.class
+org\example\Courier.class
+org\example\GenerateRandomData.class
+org\example\Order.class
+org\example\CourierCredentials.class
+org\example\OrderList.class
